@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* Ponta Delgada Stamps */
+body {
+padding: 0px;
+margin: 0px;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#333;
+text-align:center;
+}
+h1 { font-size:16px; text-align:left; }
+h2 { font-size:14px; text-align:left; }
+h3 { font-size:13px; color:#990000; padding:0px; margin:0px; text-align:left; }
+p { text-align:left; padding:0px; margin:0px;}
+table tr td { vertical-align:top; text-align:center; }
+#all {
+text-align:left;
+width: 800px;
+margin: 0px auto 0px auto;
+position:relative;
+}
+#header {
+height: 115px;
+text-align:center;
+width: 800px;
+background:url(../img/background-banner.jpg) top left repeat-x #fff;
+}
+#content {
+position: relative;
+}
+#content img { border: none; }
+#content a:link { color:#990000; font-size:14px; font-weight:bold; text-decoration:none; }
+#content a:visited { color:#990000; font-size:14px; font-weight:bold; text-decoration:none; }
+#content a:hover { color:#990000; font-size:14px; font-weight:bold; text-decoration:underline; }
+#content a:active { color:#990000; font-size:14px; font-weight:bold; text-decoration:none; }
+
+#footer {
+width: 800px;
+font-size:10px;
+text-align:center;
+}
