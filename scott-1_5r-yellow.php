@@ -4,6 +4,14 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Ponta Delgada Stamps - 5r yellow - Scott #1</title>
 <link href="css/theme.css" rel="stylesheet" type="text/css" media="all" />
+<script type="text/javascript" src="js/highcharts.js"></script>
+
+<!-- 1a) Optional: add a theme file -->
+<script type="text/javascript" src="js/themes/grid.js"></script>
+
+
+<!-- 1b) Optional: the exporting module -->
+<script type="text/javascript" src="js/modules/exporting.js"></script>
 <?php include("data/data-sc01-5r.php"); ?>
 </head>
 

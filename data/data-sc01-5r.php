@@ -1,12 +1,5 @@
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-<script type="text/javascript" src="/js/highcharts.js"></script>
-
-<!-- 1a) Optional: add a theme file -->
-<script type="text/javascript" src="/js/themes/grid.js"></script>
 
 
-<!-- 1b) Optional: the exporting module -->
-<script type="text/javascript" src="/js/modules/exporting.js"></script>
 
 <!-- 2. Add the JavaScript to initialize the chart on document ready -->
 <script type="text/javascript">
